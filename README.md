@@ -1,2 +1,2 @@
-# reco.github.io
-Recommend for me
+# Happy Bee
+Happy Bee AI
